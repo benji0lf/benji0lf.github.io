@@ -1,0 +1,32 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(116, 67, 67);
+    color: antiquewhite
+}
+
+.box{
+    width: 33%;
+    border: 1px solid #333;
+    float: left;
+    padding: 11px;
+    box-sizing: border-box;
+    box-shadow: 8px 8px 5px #444;
+    margin: 25px;
+}
+
+.pic{
+    width: 33%;
+    padding-left: 25%;
+}
+
+.classes{
+    padding: 50px;
+    border: 13px dashed #333;
+    width: 50%;
+    border-radius: 20px;
+}
+
+#main-footer{
+    text-align: center;
+    font-size: 15px;
+}
